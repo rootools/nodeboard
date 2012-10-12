@@ -1,5 +1,6 @@
 * [Новичкам](#tobeginner)
 * [Теория](#theory)
+* [Модули](#modules)
 * [Оптимизация](#optimization)
 * [Разное](#custom)
 
@@ -13,6 +14,10 @@
 ## Теория
 * [Различия асинхронной и многопоточной архитектуры на примере Node.js и PHP](http://habrahabr.ru/post/150788/)
 * [Пишем модуль на C++ для nodejs на примере работы с MySQL](http://habrahabr.ru/post/154007/)
+
+<a href="modules" />
+## Модули
+* [**node-sync** — псевдо-синхронное программирование на nodejs с использованием fibers](http://habrahabr.ru/post/116124/)
 
 <a name="optimization" />
 ## Оптимизация

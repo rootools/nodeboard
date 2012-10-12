@@ -26,5 +26,6 @@
 <a name="custom" />
 ## Разное
 * [Миллион одновременных соединений на Node.js](http://habrahabr.ru/post/123154/)
+* [Сравнение Erlang и Node.js](http://fprog.ru/2010/issue6/dmitry-demeshchuk-node.js-vs-erlang/)
 * [Node.js + Chromium = AppJS: один из перспективных вариантов второго шага эволюции веборазработчика](http://habrahabr.ru/post/153013/)
 * [Node.js + Chromium = node-webkit: ещё более перспективный вариант второго шага эволюции веборазработчика](http://habrahabr.ru/post/153095/)
